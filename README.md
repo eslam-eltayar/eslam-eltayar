@@ -24,6 +24,6 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=eslam-eltayar&show_icons=true&locale=en" alt="eslam-eltayar" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eslam-eltayar&show_icons=true&locale=en&layout=compact" alt="eslam-eltayar" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasssanezzz&" alt="hasssanezzz" /></p>
 </p>
 
