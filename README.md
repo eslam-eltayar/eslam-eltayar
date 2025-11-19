@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eslam</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-- 👷‍♂️ .NET Dev at [MogaSoft](http://mogasoft.net/)
+- 👷‍♂️ .NET Dev
 - 📫 How to reach me **eslam.eltayarr@gmail.com** (let's collab)
 - 💬 Ask me about **anything related to technologies I work with :)**
 - 🌱 I’m currently learning **Adv Topics in .NET Core**
